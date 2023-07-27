@@ -124,7 +124,7 @@
 	</dependencyManagement>
 
 	<build>
-		<!-- ROOT.war 가 생성된다. -->
+		<!-- ROOT.war 가 생성된다.psydev -->
         <finalName>ROOT</finalName>
 	
 		<plugins>
