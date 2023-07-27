@@ -10,6 +10,11 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.http.converter.HttpMessageConverter;
 import org.springframework.web.filter.CharacterEncodingFilter;
 
+/**
+ * 
+ * @author psyde
+ *
+ */
 @SpringBootApplication
 public class ReviewApplication extends SpringBootServletInitializer{
 
